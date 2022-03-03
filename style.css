@@ -43,7 +43,7 @@ body {
 	min-height: 100vh;
 
 	/* Cor do elemento */
-	background-color: #2e2e2e;
+	background-color: #161616;
 }
 
 div#parallelogram {
@@ -60,7 +60,7 @@ div#parallelogram {
 	max-width: 70vw;
 
 	/* Arredonda cantos. */
-	border-radius: 10px;
+	/*border-radius: 10px;*/
 
 	/* Adiciona sombra nos elementos. */
 	box-shadow: 5px 5px 15px;
@@ -159,7 +159,7 @@ fieldset:last-child {
 	border: none;
 
 	background-color: #ededed;
-	border-radius: 4px;
+	border-radius: 3px;
 	color: #333;
 
 	/* Tamanho da fonte.*/
